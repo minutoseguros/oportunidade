@@ -21,11 +21,11 @@ A linguagem que mais utilizamos é C#. Porém, você poderá realizar o exercíc
 
 Condições e benefícios
 ----------
-•	Regime de trabalho: CLT
-•	Período: Integral
-•	Vale refeição
-•	Plano de saúde
-•	Plano odontológico opcional
+- Regime de trabalho: CLT
+- Período: Integral
+- Vale refeição
+- Plano de saúde
+- Plano odontológico opcional
 
 Estamos numa região sensacional (Pinheiros, SP) ao lado do metro Fradique Coutinho. Existem muitos bares e muitos restaurantes com uma qualidade excelente. Tudo é muito próximo por aqui!
 
