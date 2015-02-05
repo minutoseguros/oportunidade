@@ -18,7 +18,9 @@ http://www.minutoseguros.com.br/blog/feed/
 O seu programa deverá avaliar quais as dez principais palavras abordadas nesses tópicos e qual o número de vezes que elas aparecem. Também deverá exibir a quantidade de palavras por tópico. Também deverão ser removidos os artigos e preposições nessa análise.
 
 A linguagem que mais utilizamos é C#. Porém, você poderá realizar o exercício na linguagem de programação de sua preferência.
+
 Condições e benefícios
+----------
 •	Regime de trabalho: CLT
 •	Período: Integral
 •	Vale refeição
