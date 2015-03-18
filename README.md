@@ -17,8 +17,7 @@ http://www.minutoseguros.com.br/blog/feed/
 
 O seu programa deverá avaliar quais as dez principais palavras abordadas nesses tópicos e qual o número de vezes que elas aparecem. Também deverá exibir a quantidade de palavras por tópico. Além disso, deverão ser removidos os artigos e preposições nessa análise.
 
-A linguagem que mais utilizamos é C#. Porém, você poderá resolver o exercício na linguagem de programação de sua preferência.
-Lembrando que iremos analisar também o design da aplicação (valorizamos OOP, principios SOLID, testes de unidade.. enfim, boas práticas)
+A linguagem que mais utilizamos é C#. Porém, você poderá realizar o exercício na linguagem de programação de sua preferência.
 
 Condições e benefícios
 ----------
