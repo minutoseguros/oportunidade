@@ -1,6 +1,12 @@
 Oportunidade de trabalho na Minuto Seguros
 ===========================================
 
+**No momento não há mais vagas abertas**
+
+**No entanto, caso você se interesse em resolver o desafio, nós avaliaremos a solução, lhe retornaremos e, dependendo da solução, chamamos você para uma conversa no momento que existir uma nova vaga, ok**
+
+**De qualquer forma, obrigado pelo interesse!**
+
 Venha trabalhar na área de tecnologia da Minuto Corretora de Seguros.
 Na Minuto Seguros, os erros não são passíveis de punição e sim de estudo para aprendizado. Utilizamos métodos ágeis para criação de software e nosso clima é de extrema colaboração. 
 
