@@ -3,7 +3,7 @@ Oportunidade de trabalho na Minuto Seguros
 
 **No momento não há mais vagas abertas**
 
-**No entanto, caso você se interesse em resolver o desafio, nós avaliaremos a solução, lhe retornaremos e, dependendo da solução, chamamos você para uma conversa no momento que existir uma nova vaga, ok**
+**No entanto, caso você se interesse em resolver o desafio, nós avaliaremos a solução, lhe retornaremos e, dependendo da solução, chamamos você para uma conversa no momento que existir uma nova vaga.**
 
 **De qualquer forma, obrigado pelo interesse!**
 
