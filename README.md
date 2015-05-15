@@ -1,8 +1,7 @@
 Oportunidade de trabalho na Minuto Seguros
 ===========================================
 
-Venha trabalhar na área de tecnologia da Minuto Corretora de Seguros.
-Na Minuto Seguros, os erros não são passíveis de punição e sim de estudo para aprendizado. Utilizamos métodos ágeis para criação de software e nosso clima é de extrema colaboração. 
+Venha trabalhar na área de tecnologia da Minuto Corretora de Seguros. Utilizamos métodos ágeis para criação de software e nosso clima é de extrema colaboração. 
 
 Se você tem interesse em fazer parte de uma equipe multidisciplinar e que adora criar software com qualidade, siga os seguintes passos:
 
