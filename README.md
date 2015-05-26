@@ -14,7 +14,7 @@ Você deverá criar um programa para obter automaticamente o conteúdo dos dez �
 
 http://www.minutoseguros.com.br/blog/feed/
 
-Caso tenha problemas em obter o feed, deixamos um arquivo feed.xml aqui no repositório :stuck_out_tongue_winking_eye:
+Caso tenha problemas em obter o feed, deixamos um arquivo feed.xml aqui no repositório.
 
 O seu programa deverá avaliar quais as dez principais palavras abordadas nesses tópicos e qual o número de vezes que elas aparecem. Também deverá exibir a quantidade de palavras por tópico. Além disso, deverão ser removidos os artigos e preposições nessa análise.
 
