@@ -36,6 +36,6 @@ Nós acreditamos muito nos números para tomada de decisões. Nós possuímos di
 
 Nosso trabalho é baseado em autogestão. Só existe uma regra de convivência na frente de TI: É proibido murmurar! Aqui as opiniões são discutidas, resolvidas e sempre chegamos a um consenso para melhorar a nossa convivência. Isso não foi descrito por um gerente de RH e sim por um desenvolvedor de software!
 
-Após concluir o seu pull request, mande também o seu CV para eduardo.santos@minutoseguros.com.br.
+Após concluir o seu pull request, mande também o seu CV para leo.lima@minutoseguros.com.br.
 
-Se você possui algum problema em realizar um pull request público, não há problema, mande seu código para eduardo.santos@minutoseguros.com.br.
+Se você possui algum problema em realizar um pull request público, não há problema, mande seu código para leo.lima@minutoseguros.com.br.
