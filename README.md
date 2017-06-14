@@ -28,9 +28,7 @@ Condições e benefícios
 - Plano de saúde
 - Plano odontológico opcional
 
-Estamos numa região sensacional (Pinheiros, SP) ao lado do metrô Fradique Coutinho. Existem muitos bares e muitos restaurantes com uma qualidade excelente. Tudo é muito próximo por aqui!
-
-Nosso hardware é muito bom e possuímos um ambiente de trabalho muito agradável. A empresa não possui hierarquias desnecessárias e você é convidado e desafiado a colaborar com todas as frentes de trabalho. Ou seja, aqui o “pitaco” é bem vindo!
+Trabalhamos com uma boa infraestrutura, nosso hardware é muito bom e possuímos um ambiente de trabalho muito agradável. A empresa não possui hierarquias desnecessárias e você é convidado e desafiado a colaborar com todas as frentes de trabalho. Ou seja, aqui o “pitaco” é bem vindo!
 
 Nós acreditamos muito nos números para tomada de decisões. Nós possuímos diversas métricas e isso inclui também medir o nosso código. Acompanhamos esses indicadores para construir códigos sólidos e de fácil manutenção. Afinal, queremos a cada dia mais flexibilidade e continuar animados a evoluir nossas aplicações.
 
