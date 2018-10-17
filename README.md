@@ -20,13 +20,8 @@ O seu programa deverá avaliar quais as dez principais palavras abordadas nesses
 
 A linguagem que mais utilizamos é C#. Porém, você poderá realizar o exercício na linguagem de programação de sua preferência.
 
-Condições e benefícios
+Como trabalhamos aqui
 ----------
-- Regime de trabalho: CLT
-- Período: Integral
-- Vale refeição
-- Plano de saúde
-- Plano odontológico opcional
 
 Trabalhamos com uma boa infraestrutura, nosso hardware é muito bom e possuímos um ambiente de trabalho muito agradável. A empresa não possui hierarquias desnecessárias e você é convidado e desafiado a colaborar com todas as frentes de trabalho. Ou seja, aqui o “pitaco” é bem vindo!
 
