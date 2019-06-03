@@ -16,9 +16,9 @@ Culturalmente você terá um bom fit se:
 
 + Domínio de .NET Framework & .NET Core 2.0 e C#;
 + Forte experiência em design de APIs e web services REST; Microserviços;
-+ Experiência na construção de aplicações WEB e produtos escaláveis (Angular, React, Vue e Etc.);
++ Experiência na construção de aplicações WEB e produtos escaláveis (Angular, React, Vue etc.);
 + Experiência com Banco de Dados tanto relacionais quanto não relacional (MongoDB, MySQL, além de SQL Server);
-+ Experiência com serviços de fila e mensageria (RabbitMQ, AmazonMQ, Kafka, etc);
++ Experiência com serviços de fila e mensageria (RabbitMQ, AmazonMQ, Kafka etc);
 + Técnicas de revisão de código e garantia da qualidade;
 + Vivência com TDD e BDD, testes funcionais e de performance;
 + Experiência com GIT/Azure DevOps;
